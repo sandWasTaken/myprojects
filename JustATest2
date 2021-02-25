@@ -1,4 +1,4 @@
 local a = "Hotdog"
 local b = "Juice"
 
-print(a)
+print(b)
